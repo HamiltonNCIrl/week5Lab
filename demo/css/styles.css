@@ -1,0 +1,23 @@
+body{
+  background-color:#FFF8AC;
+}
+h2{
+  color: #513B8F;
+  font-family: 'Concert One', cursive;
+}
+
+p{
+  color: #513B8F;
+  font-family: 'Fruktur', cursive;
+}
+
+img{
+  width: 30%;
+}
+
+.wrapper{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 30px;
+}

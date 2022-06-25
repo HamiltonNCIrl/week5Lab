@@ -1,0 +1,21 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.myClass{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#oversize{
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
